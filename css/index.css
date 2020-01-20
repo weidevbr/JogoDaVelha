@@ -1,0 +1,63 @@
+
+body{
+
+	background:#ADD8E6;
+}
+
+body table tr td {
+
+	text-align: center;
+}
+
+body table{
+
+	border: 0px;
+}
+
+#principal{
+	
+	width: 600px;
+	border: 0px;
+
+}
+
+.player{
+
+	border: 0px;
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+
+}
+
+body #palco_jogo{
+
+	display:none; 
+	margin-top:50px; 
+	text-align:center;
+}
+
+body .player_image{
+
+	display: inline-block;
+}
+
+body .td{
+
+	border-bottom: solid 1px red; 
+	border-right:solid 1px red;
+}
+
+body .td2{
+
+	border-bottom: solid 1px red;
+}
+
+body .td3{
+
+	border-right: solid 1px red;
+}
+
+#palco_jogo .jogada{
+
+	width:100px; 
+	height:100px;
+}
