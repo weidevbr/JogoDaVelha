@@ -2,7 +2,7 @@
 
 Jogo da Velha simples usando jQuery .
 
-# Funcionalidades&Interface
+# Funcionalidades & Interface
 
 ![demo2](https://user-images.githubusercontent.com/56487602/72699557-ad91d380-3b27-11ea-8925-474409d7e831.jpg)
 <br>
