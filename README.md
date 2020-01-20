@@ -1,6 +1,6 @@
 # JogoDaVelha
 
-Jogo da Velha simples usando jQuery .
+Jogo da velha simples usando jQuery .
 
 # Funcionalidades & Interface
 
