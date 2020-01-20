@@ -1,2 +1,11 @@
 # JogoDaVelha
-Jogo da Velha usando jQuery,HTML e CSS.
+
+Jogo da Velha simples usando jQuery .
+
+# Funcionalidades
+
+
+
+
+
+
