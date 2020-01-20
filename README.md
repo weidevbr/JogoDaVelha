@@ -1,4 +1,4 @@
-# JogoDaVelha
+# Jogo Da Velha
 
 Jogo da velha simples usando jQuery .
 
